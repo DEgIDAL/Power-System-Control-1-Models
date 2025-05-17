@@ -52,14 +52,6 @@ Students will learn to:
 - Optimize control parameters for improved performance
 - Integrate different generation sources in a power system
 
-## Related Courses
-
-This course builds upon concepts from **Energy Economics in Electricity Markets EE G3304**, which covers:
-- Electricity market stakeholders
-- Market functions and operations
-- Policy frameworks
-- Mathematical models for cost-effective energy systems
-
 
 
 Copyright (c) 2025 [CUNY City College]
